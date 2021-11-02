@@ -1,1 +1,1 @@
-# btd6-xp-bot
+# btd6-xp-and-monke-money-farming-bot

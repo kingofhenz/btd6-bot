@@ -74,7 +74,7 @@ while count != 1000000:
     pyautogui.click(350, 800)
     pyautogui.click(350, 425)
     pyautogui.click(350, 425)
-    while count <= 410:
+    while count <= 375:
         pyautogui.click(1000, 500)
         count = count + 1
         time.sleep(1)

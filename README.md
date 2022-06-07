@@ -1,2 +1,2 @@
 # btd6-xp-and-monke-money-farming-bot
-# it goes to infernal and plays deflation a lot. Make sure to use python 3.9 ¯\_(ツ)_/¯ kingofhenz11#3817
+It goes to infernal and plays deflation a lot. use python 3.9 or 3.8 ¯\_(ツ)_/¯ kingofhenz11#3817
